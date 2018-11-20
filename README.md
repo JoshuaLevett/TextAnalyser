@@ -8,10 +8,16 @@ This data file holds information on 400,000 'words' and their relationships, hen
 On my laptop comparing a word to a whole file would typically take around one minute.
 
 Some example .txt files are included in the debug folder (the default folder), these are:
+
 BBC - a copy and paste into notepad of the frontpage of the BBC some time ago
+
 Brain - the wikipedia article on the human brain
+
 GW-1 - the wikipedia article on global warming
+
 Test - an assortment of text I initially wrote to test the loading and displaying of text files
+
 WW2-1 - the wikipedia article on world war 2
+
 
 Feel free to include any txt file you choose as well, those are there as examples.
