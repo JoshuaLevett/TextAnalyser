@@ -22,4 +22,4 @@ WW2-1 - the wikipedia article on world war 2
 
 Feel free to include any txt file you choose as well, those are there as examples.
 
-This is still an excellent example of the code I create, and I would gladly demonstrate it in person (as my laptop already has the large data file).
+This is still an excellent example of the code I create.
